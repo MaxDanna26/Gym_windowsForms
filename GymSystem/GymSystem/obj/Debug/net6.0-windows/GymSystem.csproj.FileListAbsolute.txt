@@ -1,0 +1,7 @@
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.Form1.resources
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.Properties.Resources.resources
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.csproj.GenerateResource.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.AssemblyInfoInputs.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.AssemblyInfo.cs
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.csproj.CoreCompileInputs.cache
