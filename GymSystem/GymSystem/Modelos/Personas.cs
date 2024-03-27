@@ -12,7 +12,25 @@ namespace GymSystem.Modelos
         public string apellido;
         public string tel;
 
+        public string GetName
+        {
+            get => $"{apellido},{nombre}";
+        }
         
+        public string GetTel
+        {
+            get => tel;
+        }
+
+        public Personas(string nombre, string apellido, string tel)
+        {
+            this.nombre = nombre;
+            this.apellido = apellido;
+            this.tel = tel;
+        }
+
+
+
       
     }
 }

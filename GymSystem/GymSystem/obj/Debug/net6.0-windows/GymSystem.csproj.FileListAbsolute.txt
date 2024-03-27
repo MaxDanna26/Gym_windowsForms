@@ -5,3 +5,13 @@ C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj
 C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.AssemblyInfoInputs.cache
 C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.AssemblyInfo.cs
 C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\bin\Debug\net6.0-windows\GymSystem.exe
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\bin\Debug\net6.0-windows\GymSystem.deps.json
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\bin\Debug\net6.0-windows\GymSystem.runtimeconfig.json
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\bin\Debug\net6.0-windows\GymSystem.dll
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\bin\Debug\net6.0-windows\GymSystem.pdb
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.dll
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\refint\GymSystem.dll
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.pdb
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\GymSystem.genruntimeconfig.cache
+C:\Users\Maxim\OneDrive\Escritorio\.net\Gym_windowsForms\GymSystem\GymSystem\obj\Debug\net6.0-windows\ref\GymSystem.dll
